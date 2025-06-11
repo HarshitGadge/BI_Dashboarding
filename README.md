@@ -2,6 +2,8 @@
 # Operational Efficiency Dashboard for Credit Union Member Services
 
 This project analyzes operational performance metrics (SLA compliance, resolution time, CSAT) from a simulated support center for a credit union, and visualizes results using Databricks built-in BI tools.
+You can check out the notebook directly by this link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3452519389878746/2609978118469680/7613518780443247/latest.html
+
 
 ## 📊 Features
 - SLA compliance tracking by agent and team
