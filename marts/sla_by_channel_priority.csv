@@ -1,0 +1,10 @@
+channel,priority,tickets,sla_compliance_pct,median_resolution_min
+Email,High,177,1.7,202.0
+Chat,Medium,1036,100.0,30.0
+Phone,Low,1180,100.0,83.0
+Email,Low,514,87.9,629.0
+Email,Medium,616,25.3,346.0
+Phone,High,473,87.7,28.0
+Phone,Medium,1396,99.8,47.0
+Chat,Low,956,100.0,54.0
+Chat,High,375,97.1,18.0
